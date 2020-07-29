@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xax"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:wool","data":10
+    },
+    "a":
+    {
+      "item": "minecraft:iron_chestplate"
+    }
+  },
+  "result": {
+		"item": "armors:purple_iron_wool_chestplate"
+  }
+}

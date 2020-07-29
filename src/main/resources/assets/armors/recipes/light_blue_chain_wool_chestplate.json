@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xax"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:wool","data":3
+    },
+    "a":
+    {
+      "item": "minecraft:chainmail_chestplate"
+    }
+  },
+  "result": {
+		"item": "armors:light_blue_chain_wool_chestplate"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xax"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "armors:chain"
+    },
+    "a":
+    {
+      "item": "minecraft:iron_chestplate"
+    }
+  },
+  "result": {
+		"item": "armors:iron_chain_chestplate"
+  }
+}

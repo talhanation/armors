@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xax"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:wool","data":11
+    },
+    "a":
+    {
+      "item": "minecraft:iron_leggings"
+    }
+  },
+  "result": {
+		"item": "armors:blue_iron_wool_leggings"
+  }
+}

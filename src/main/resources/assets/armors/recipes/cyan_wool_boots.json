@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "x x",
+    "x x"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:wool",
+	  "data": 9
+    }
+  },
+  "result": {
+    "item": "armors:cyan_wool_boots",
+	"count": 1
+  }
+}

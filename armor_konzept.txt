@@ -1,0 +1,55 @@
+
+
+Defense points:___________________________________________________________
+
+material /			/Fullset/ helmet / chest / leg	/ boots
+
+wool				/	5	/	1	/	2	/	1	/	1	/
+wool with leather	/	8	/	1	/	3	/	2	/	1	/
+wool with chain		/	11	/	2	/	4	/	3	/	2	/
+wool with iron		/	14	/	3	/	5	/	4	/	3	/
+
+leather with wool 	/	11	/ 	2	/	4	/	3	/	2	/
+leather with chain 	/		/ 		/		/		/		/
+leather with iron	/		/		/ 		/	 	/		/
+
+chain with wool 	/		/ 		/		 /		/		/
+chain with leather 	/		/ 		/		 /		/		/
+chain with iron 	/		/ 		/		 /		/		/
+chain with gold 	/		/ 		/		 /		/		/
+
+iron with wool		/		/		/		 /		/		/
+iron with leather 	/		/ 		/		 /		/		/
+iron with chain 	/		/ 		/		 /		/		/
+iron with gold_1 	/		/ 		/		 /		/		/
+iron with gold_2 	/		/ 		/		 /		/		/
+
+Durability:___________________________________________________________
+==============
+wool = +10
+leather = +20
+chain = +30
+gold = +30
+iron = +50
+dia = + 100
+===============
+
+material /			/		/ helmet / chest / leg	/ boots
+wool				/		/	33	/	48	/	45	/	39	/
+wool with leather	/		/	53	/	68	/	65	/	59	/
+wool with chain		/		/	63	/	78	/	75	/	69	/
+wool with iron		/		/	73	/	88	/	85	/	79	/
+
+leather with wool 	/		/ 	43	/	58	/	55	/	49	/
+leather with chain	/		/	73	/	88	/	85	/	79	/
+leather with iron	/		/	93	/ 	108	/	105	/	99	/
+
+chain with wool 	/		/ 	76	/	106	 /	100	/	88	/
+chain with leather 	/		/ 	86	/	116	 /	110	/	108	/
+chain with iron 	/		/ 	106	/	136	 /	130	/	128	/
+
+iron with wool		/		/		/		 /		/		/
+iron with leather 	/		/ 		/		 /		/		/
+iron with chain 	/		/ 		/		 /		/		/
+iron with gold_1 	/		/ 		/		 /		/		/
+iron with gold_2 	/		/ 		/		 /		/		/

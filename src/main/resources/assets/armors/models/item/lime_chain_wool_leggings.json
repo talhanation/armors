@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:items/chainmail_leggings",
+	"layer1": "armors:items/lime_wool_leggings_overlay"
+  }
+}

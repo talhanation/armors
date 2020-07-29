@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xax"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:leather"
+    },
+    "a":
+    {
+      "item": "armors:purple_wool_chestplate"
+    }
+  },
+  "result": {
+		"item": "armors:purple_wool_leather_chestplate"
+  }
+}

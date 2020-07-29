@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xax"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:wool","data":8
+    },
+    "a":
+    {
+      "item": "minecraft:iron_boots"
+    }
+  },
+  "result": {
+		"item": "armors:light_gray_iron_wool_boots"
+  }
+}

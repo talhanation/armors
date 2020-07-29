@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "x x",
+    "xxx",
+	"xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:wool",
+	  "data": 7
+    }
+  },
+  "result": {
+    "item": "armors:gray_wool_chestplate",
+	"count": 1
+  }
+}

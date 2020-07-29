@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xax"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    "a":
+    {
+      "item": "armors:orange_wool_chestplate"
+    }
+  },
+  "result": {
+		"item": "armors:orange_wool_gold_chestplate"
+  }
+}

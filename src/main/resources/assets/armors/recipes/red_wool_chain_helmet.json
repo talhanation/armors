@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xax"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "armors:chain"
+    },
+    "a":
+    {
+      "item": "armors:red_wool_helmet"
+    }
+  },
+  "result": {
+		"item": "armors:red_wool_chain_helmet"
+  }
+}

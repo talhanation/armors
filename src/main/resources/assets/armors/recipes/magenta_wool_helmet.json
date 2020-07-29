@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "x x"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:wool",
+	  "data": 2
+    }
+  },
+  "result": {
+    "item": "armors:magenta_wool_helmet",
+	"count": 1
+  }
+}

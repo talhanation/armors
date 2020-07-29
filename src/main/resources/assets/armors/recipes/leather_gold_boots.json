@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xax"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    "a":
+    {
+      "item": "minecraft:leather_boots"
+    }
+  },
+  "result": {
+		"item": "armors:leather_gold_boots"
+  }
+}

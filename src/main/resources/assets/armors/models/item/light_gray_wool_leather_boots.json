@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "armors:items/light_gray_wool_boots",
+	"layer1": "armors:items/leather_boots_overlay"
+  }
+}

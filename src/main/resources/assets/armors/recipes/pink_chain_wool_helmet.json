@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xax"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:wool","data":6
+    },
+    "a":
+    {
+      "item": "minecraft:chainmail_helmet"
+    }
+  },
+  "result": {
+		"item": "armors:pink_chain_wool_helmet"
+  }
+}

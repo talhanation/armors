@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "armors:items/gray_wool_helmet",
+	"layer1": "armors:items/chain_helmet_overlay"
+  }
+}

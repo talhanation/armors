@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xax"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:diamond"
+    },
+    "a":
+    {
+      "item": "armors:yellow_wool_boots"
+    }
+  },
+  "result": {
+		"item": "armors:yellow_wool_dia_boots"
+  }
+}

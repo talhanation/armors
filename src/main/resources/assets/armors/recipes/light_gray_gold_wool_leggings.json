@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xax"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:wool","data":8
+    },
+    "a":
+    {
+      "item": "minecraft:golden_leggings"
+    }
+  },
+  "result": {
+		"item": "armors:light_gray_gold_wool_leggings"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:items/gold_chestplate",
+	"layer1": "armors:items/chain_chestplate_overlay"
+  }
+}

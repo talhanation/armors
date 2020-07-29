@@ -1,0 +1,1069 @@
+item.chain.name=Chainmail
+itemGroup.Armors=Armors
+
+item.wool_helmet.name=Wool Helmet
+item.wool_chestplate.name=Wool Chestplate
+item.wool_leggings.name=Wool Leggings
+item.wool_boots.name=Wool Boots
+
+item.red_wool_helmet.name=Red Wool Helmet
+item.red_wool_chestplate.name=Red Wool Chestplate
+item.red_wool_leggings.name=Red Wool Leggings
+item.red_wool_boots.name=Red Wool Boots
+
+item.orange_wool_helmet.name=Orange Wool Helmet
+item.orange_wool_chestplate.name=Orange Wool Chestplate
+item.orange_wool_leggings.name=Orange Wool Leggings
+item.orange_wool_boots.name=Orange Wool Boots
+
+item.magenta_wool_helmet.name=Magenta Wool Helmet
+item.magenta_wool_chestplate.name=Magenta Wool Chestplate
+item.magenta_wool_leggings.name=Magenta Wool Leggings
+item.magenta_wool_boots.name=Magenta Wool Boots
+
+item.light_blue_wool_helmet.name=Light Blue Wool Helmet
+item.light_blue_wool_chestplate.name=Light Blue Wool Chestplate
+item.light_blue_wool_leggings.name=Light Blue Wool Leggings
+item.light_blue_wool_boots.name=Light Blue Wool Boots
+
+item.yellow_wool_helmet.name=Yellow Wool Helmet
+item.yellow_wool_chestplate.name=Yellow Wool Chestplate
+item.yellow_wool_leggings.name=Yellow Wool Leggings
+item.yellow_wool_boots.name=Yellow Wool Boots
+
+item.lime_wool_helmet.name=Lime Wool Helmet
+item.lime_wool_chestplate.name=Lime Wool Chestplate
+item.lime_wool_leggings.name=Lime Wool Leggings
+item.lime_wool_boots.name=Lime Wool Boots
+
+item.pink_wool_helmet.name=Pink Wool Helmet
+item.pink_wool_chestplate.name=Pink Wool Chestplate
+item.pink_wool_leggings.name=Pink Wool Leggings
+item.pink_wool_boots.name=Pink Wool Boots
+
+item.gray_wool_helmet.name=Gray Wool Helmet
+item.gray_wool_chestplate.name=Gray Wool Chestplate
+item.gray_wool_leggings.name=Gray Wool Leggings
+item.gray_wool_boots.name=Gray Wool Boots
+
+item.light_gray_wool_helmet.name=Light Gray Wool Helmet
+item.light_gray_wool_chestplate.name=Light Gray Wool Chestplate
+item.light_gray_wool_leggings.name=Light Gray Wool Leggings
+item.light_gray_wool_boots.name=Light Gray Wool Boots
+
+item.cyan_wool_helmet.name=Cyan Wool Helmet
+item.cyan_wool_chestplate.name=Cyan Wool Chestplate
+item.cyan_wool_leggings.name=Cyan Wool Leggings
+item.cyan_wool_boots.name=Cyan Wool Boots
+
+item.purple_wool_helmet.name=Purple Wool Helmet
+item.purple_wool_chestplate.name=Purple Wool Chestplate
+item.purple_wool_leggings.name=Purple Wool Leggings
+item.purple_wool_boots.name=Purple Wool Boots
+
+item.blue_wool_helmet.name=Blue Wool Helmet
+item.blue_wool_chestplate.name=Blue Wool Chestplate
+item.blue_wool_leggings.name=Blue Wool Leggings
+item.blue_wool_boots.name=Blue Wool Boots
+
+item.brown_wool_helmet.name=Brown Wool Helmet
+item.brown_wool_chestplate.name=Brown Wool Chestplate
+item.brown_wool_leggings.name=Brown Wool Leggings
+item.brown_wool_boots.name=Brown Wool Boots
+
+item.green_wool_helmet.name=Green Wool Helmet
+item.green_wool_chestplate.name=Green Wool Chestplate
+item.green_wool_leggings.name=Green Wool Leggings
+item.green_wool_boots.name=Green Wool Boots
+
+item.red_wool_helmet.name=Red Wool Helmet
+item.red_wool_chestplate.name=Red Wool Chestplate
+item.red_wool_leggings.name=Red Wool Leggings
+item.red_wool_boots.name=Red Wool Boots
+
+item.black_wool_helmet.name=Black Wool Helmet
+item.black_wool_chestplate.name=Black Wool Chestplate
+item.black_wool_leggings.name=Black Wool Leggings
+item.black_wool_boots.name=Black Wool Boots
+
+item.wool_leather_helmet.name=Wool Helmet with Leather
+item.wool_leather_chestplate.name=Wool Chestplate with Leather
+item.wool_leather_leggings.name=Wool Leggings with Leather
+item.wool_leather_boots.name=Wool Boots with Leather
+
+item.red_wool_leather_helmet.name=Red Wool Helmet with Leather
+item.red_wool_leather_chestplate.name=Red Wool Chestplate with Leather
+item.red_wool_leather_leggings.name=Red Wool Leggings with Leather
+item.red_wool_leather_boots.name=Red Wool Boots with Leather
+
+item.orange_wool_leather_helmet.name=Orange Wool Helmet with Leather
+item.orange_wool_leather_chestplate.name=Orange Wool Chestplate with Leather
+item.orange_wool_leather_leggings.name=Orange Wool Leggings with Leather
+item.orange_wool_leather_boots.name=Orange Wool Boots with Leather
+
+item.magenta_wool_leather_helmet.name=Magenta Wool Helmet with Leather
+item.magenta_wool_leather_chestplate.name=Magenta Wool Chestplate with Leather
+item.magenta_wool_leather_leggings.name=Magenta Wool Leggings with Leather
+item.magenta_wool_leather_boots.name=Magenta Wool Boots with Leather
+
+item.light_blue_wool_leather_helmet.name=Light Blue Wool Helmet with Leather
+item.light_blue_wool_leather_chestplate.name=Light Blue Wool Chestplate with Leather
+item.light_blue_wool_leather_leggings.name=Light Blue Wool Leggings with Leather
+item.light_blue_wool_leather_boots.name=Light Blue Wool Boots with Leather
+
+item.yellow_wool_leather_helmet.name=Yellow Wool Helmet with Leather
+item.yellow_wool_leather_chestplate.name=Yellow Wool Chestplate with Leather
+item.yellow_wool_leather_leggings.name=Yellow Wool Leggings with Leather
+item.yellow_wool_leather_boots.name=Yellow Wool Boots with Leather
+
+item.lime_wool_leather_helmet.name=Lime Wool Helmet with Leather
+item.lime_wool_leather_chestplate.name=Lime Wool Chestplate with Leather
+item.lime_wool_leather_leggings.name=Lime Wool Leggings with Leather
+item.lime_wool_leather_boots.name=Lime Wool Boots with Leather
+
+item.pink_wool_leather_helmet.name=Pink Wool Helmet with Leather
+item.pink_wool_leather_chestplate.name=Pink Wool Chestplate with Leather
+item.pink_wool_leather_leggings.name=Pink Wool Leggings with Leather
+item.pink_wool_leather_boots.name=Pink Wool Boots with Leather
+item.gray_wool_leather_helmet.name=Gray Wool Helmet with Leather
+item.gray_wool_leather_chestplate.name=Gray Wool Chestplate with Leather
+item.gray_wool_leather_leggings.name=Gray Wool Leggings with Leather
+item.gray_wool_leather_boots.name=Gray Wool Boots with Leather
+
+item.light_gray_wool_leather_helmet.name=Light Gray Wool Helmet with Leather
+item.light_gray_wool_leather_chestplate.name=Light Gray Wool Chestplate with Leather
+item.light_gray_wool_leather_leggings.name=Light Gray Wool Leggings with Leather
+item.light_gray_wool_leather_boots.name=Light Gray Wool Boots with Leather
+
+item.cyan_wool_leather_helmet.name=Cyan Wool Helmet with Leather
+item.cyan_wool_leather_chestplate.name=Cyan Wool Chestplate with Leather
+item.cyan_wool_leather_leggings.name=Cyan Wool Leggings with Leather
+item.cyan_wool_leather_boots.name=Cyan Wool Boots with Leather
+
+item.purple_wool_leather_helmet.name=Purple Wool Helmet with Leather
+item.purple_wool_leather_chestplate.name=Purple Wool Chestplate with Leather
+item.purple_wool_leather_leggings.name=Purple Wool Leggings with Leather
+item.purple_wool_leather_boots.name=Purple Wool Boots with Leather
+
+item.blue_wool_leather_helmet.name=Blue Wool Helmet with Leather
+item.blue_wool_leather_chestplate.name=Blue Wool Chestplate with Leather
+item.blue_wool_leather_leggings.name=Blue Wool Leggings with Leather
+item.blue_wool_leather_boots.name=Blue Wool Boots with Leather
+
+item.brown_wool_leather_helmet.name=Brown Wool Helmet with Leather
+item.brown_wool_leather_chestplate.name=Brown Wool Chestplate with Leather
+item.brown_wool_leather_leggings.name=Brown Wool Leggings with Leather
+item.brown_wool_leather_boots.name=Brown Wool Boots with Leather
+
+item.green_wool_leather_helmet.name=Green Wool Helmet with Leather
+item.green_wool_leather_chestplate.name=Green Wool Chestplate with Leather
+item.green_wool_leather_leggings.name=Green Wool Leggings with Leather
+item.green_wool_leather_boots.name=Green Wool Boots with Leather
+
+item.red_wool_leather_helmet.name=Red Wool Helmet with Leather
+item.red_wool_leather_chestplate.name=Red Wool Chestplate with Leather
+item.red_wool_leather_leggings.name=Red Wool Leggings with Leather
+item.red_wool_leather_boots.name=Red Wool Boots with Leather
+
+item.black_wool_leather_helmet.name=Black Wool Helmet with Leather
+item.black_wool_leather_chestplate.name=Black Wool Chestplate with Leather
+item.black_wool_leather_leggings.name=Black Wool Leggings with Leather
+item.black_wool_leather_boots.name=Black Wool Boots with Leather
+
+item.wool_chain_helmet.name=Wool Helmet with Chain
+item.wool_chain_chestplate.name=Wool Chestplate with Chain
+item.wool_chain_leggings.name=Wool Leggings with Chain
+item.wool_chain_boots.name=Wool Boots with Chain
+
+item.red_wool_chain_helmet.name=Red Wool Helmet with Chain
+item.red_wool_chain_chestplate.name=Red Wool Chestplate with Chain
+item.red_wool_chain_leggings.name=Red Wool Leggings with Chain
+item.red_wool_chain_boots.name=Red Wool Boots with Chain
+
+item.orange_wool_chain_helmet.name=Orange Wool Helmet with Chain
+item.orange_wool_chain_chestplate.name=Orange Wool Chestplate with Chain
+item.orange_wool_chain_leggings.name=Orange Wool Leggings with Chain
+item.orange_wool_chain_boots.name=Orange Wool Boots with Chain
+
+item.magenta_wool_chain_helmet.name=Magenta Wool Helmet with Chain
+item.magenta_wool_chain_chestplate.name=Magenta Wool Chestplate with Chain
+item.magenta_wool_chain_leggings.name=Magenta Wool Leggings with Chain
+item.magenta_wool_chain_boots.name=Magenta Wool Boots with Chain
+
+item.light_blue_wool_chain_helmet.name=Light Blue Wool Helmet with Chain
+item.light_blue_wool_chain_chestplate.name=Light Blue Wool Chestplate with Chain
+item.light_blue_wool_chain_leggings.name=Light Blue Wool Leggings with Chain
+item.light_blue_wool_chain_boots.name=Light Blue Wool Boots with Chain
+
+item.yellow_wool_chain_helmet.name=Yellow Wool Helmet with Chain
+item.yellow_wool_chain_chestplate.name=Yellow Wool Chestplate with Chain
+item.yellow_wool_chain_leggings.name=Yellow Wool Leggings with Chain
+item.yellow_wool_chain_boots.name=Yellow Wool Boots with Chain
+
+item.lime_wool_chain_helmet.name=Lime Wool Helmet with Chain
+item.lime_wool_chain_chestplate.name=Lime Wool Chestplate with Chain
+item.lime_wool_chain_leggings.name=Lime Wool Leggings with Chain
+item.lime_wool_chain_boots.name=Lime Wool Boots with Chain
+
+item.pink_wool_chain_helmet.name=Pink Wool Helmet with Chain
+item.pink_wool_chain_chestplate.name=Pink Wool Chestplate with Chain
+item.pink_wool_chain_leggings.name=Pink Wool Leggings with Chain
+item.pink_wool_chain_boots.name=Pink Wool Boots with Chain
+item.gray_wool_chain_helmet.name=Gray Wool Helmet with Chain
+item.gray_wool_chain_chestplate.name=Gray Wool Chestplate with Chain
+item.gray_wool_chain_leggings.name=Gray Wool Leggings with Chain
+item.gray_wool_chain_boots.name=Gray Wool Boots with Chain
+
+item.light_gray_wool_chain_helmet.name=Light Gray Wool Helmet with Chain
+item.light_gray_wool_chain_chestplate.name=Light Gray Wool Chestplate with Chain
+item.light_gray_wool_chain_leggings.name=Light Gray Wool Leggings with Chain
+item.light_gray_wool_chain_boots.name=Light Gray Wool Boots with Chain
+
+item.cyan_wool_chain_helmet.name=Cyan Wool Helmet with Chain
+item.cyan_wool_chain_chestplate.name=Cyan Wool Chestplate with Chain
+item.cyan_wool_chain_leggings.name=Cyan Wool Leggings with Chain
+item.cyan_wool_chain_boots.name=Cyan Wool Boots with Chain
+
+item.purple_wool_chain_helmet.name=Purple Wool Helmet with Chain
+item.purple_wool_chain_chestplate.name=Purple Wool Chestplate with Chain
+item.purple_wool_chain_leggings.name=Purple Wool Leggings with Chain
+item.purple_wool_chain_boots.name=Purple Wool Boots with Chain
+
+item.blue_wool_chain_helmet.name=Blue Wool Helmet with Chain
+item.blue_wool_chain_chestplate.name=Blue Wool Chestplate with Chain
+item.blue_wool_chain_leggings.name=Blue Wool Leggings with Chain
+item.blue_wool_chain_boots.name=Blue Wool Boots with Chain
+
+item.brown_wool_chain_helmet.name=Brown Wool Helmet with Chain
+item.brown_wool_chain_chestplate.name=Brown Wool Chestplate with Chain
+item.brown_wool_chain_leggings.name=Brown Wool Leggings with Chain
+item.brown_wool_chain_boots.name=Brown Wool Boots with Chain
+
+item.green_wool_chain_helmet.name=Green Wool Helmet with Chain
+item.green_wool_chain_chestplate.name=Green Wool Chestplate with Chain
+item.green_wool_chain_leggings.name=Green Wool Leggings with Chain
+item.green_wool_chain_boots.name=Green Wool Boots with Chain
+
+item.red_wool_chain_helmet.name=Red Wool Helmet with Chain
+item.red_wool_chain_chestplate.name=Red Wool Chestplate with Chain
+item.red_wool_chain_leggings.name=Red Wool Leggings with Chain
+item.red_wool_chain_boots.name=Red Wool Boots with Chain
+
+item.black_wool_chain_helmet.name=Black Wool Helmet with Chain
+item.black_wool_chain_chestplate.name=Black Wool Chestplate with Chain
+item.black_wool_chain_leggings.name=Black Wool Leggings with Chain
+item.black_wool_chain_boots.name=Black Wool Boots with Chain
+
+item.wool_iron_helmet.name=Wool Helmet with iron
+item.wool_iron_chestplate.name=Wool Chestplate with iron
+item.wool_iron_leggings.name=Wool Leggings with iron
+item.wool_iron_boots.name=Wool Boots with iron
+
+item.red_wool_iron_helmet.name=Red Wool Helmet with iron
+item.red_wool_iron_chestplate.name=Red Wool Chestplate with iron
+item.red_wool_iron_leggings.name=Red Wool Leggings with iron
+item.red_wool_iron_boots.name=Red Wool Boots with iron
+
+item.orange_wool_iron_helmet.name=Orange Wool Helmet with iron
+item.orange_wool_iron_chestplate.name=Orange Wool Chestplate with iron
+item.orange_wool_iron_leggings.name=Orange Wool Leggings with iron
+item.orange_wool_iron_boots.name=Orange Wool Boots with iron
+
+item.magenta_wool_iron_helmet.name=Magenta Wool Helmet with iron
+item.magenta_wool_iron_chestplate.name=Magenta Wool Chestplate with iron
+item.magenta_wool_iron_leggings.name=Magenta Wool Leggings with iron
+item.magenta_wool_iron_boots.name=Magenta Wool Boots with iron
+
+item.light_blue_wool_iron_helmet.name=Light Blue Wool Helmet with iron
+item.light_blue_wool_iron_chestplate.name=Light Blue Wool Chestplate with iron
+item.light_blue_wool_iron_leggings.name=Light Blue Wool Leggings with iron
+item.light_blue_wool_iron_boots.name=Light Blue Wool Boots with iron
+
+item.yellow_wool_iron_helmet.name=Yellow Wool Helmet with iron
+item.yellow_wool_iron_chestplate.name=Yellow Wool Chestplate with iron
+item.yellow_wool_iron_leggings.name=Yellow Wool Leggings with iron
+item.yellow_wool_iron_boots.name=Yellow Wool Boots with iron
+
+item.lime_wool_iron_helmet.name=Lime Wool Helmet with iron
+item.lime_wool_iron_chestplate.name=Lime Wool Chestplate with iron
+item.lime_wool_iron_leggings.name=Lime Wool Leggings with iron
+item.lime_wool_iron_boots.name=Lime Wool Boots with iron
+
+item.pink_wool_iron_helmet.name=Pink Wool Helmet with iron
+item.pink_wool_iron_chestplate.name=Pink Wool Chestplate with iron
+item.pink_wool_iron_leggings.name=Pink Wool Leggings with iron
+item.pink_wool_iron_boots.name=Pink Wool Boots with iron
+item.gray_wool_iron_helmet.name=Gray Wool Helmet with iron
+item.gray_wool_iron_chestplate.name=Gray Wool Chestplate with iron
+item.gray_wool_iron_leggings.name=Gray Wool Leggings with iron
+item.gray_wool_iron_boots.name=Gray Wool Boots with iron
+
+item.light_gray_wool_iron_helmet.name=Light Gray Wool Helmet with iron
+item.light_gray_wool_iron_chestplate.name=Light Gray Wool Chestplate with iron
+item.light_gray_wool_iron_leggings.name=Light Gray Wool Leggings with iron
+item.light_gray_wool_iron_boots.name=Light Gray Wool Boots with iron
+
+item.cyan_wool_iron_helmet.name=Cyan Wool Helmet with iron
+item.cyan_wool_iron_chestplate.name=Cyan Wool Chestplate with iron
+item.cyan_wool_iron_leggings.name=Cyan Wool Leggings with iron
+item.cyan_wool_iron_boots.name=Cyan Wool Boots with iron
+
+item.purple_wool_iron_helmet.name=Purple Wool Helmet with iron
+item.purple_wool_iron_chestplate.name=Purple Wool Chestplate with iron
+item.purple_wool_iron_leggings.name=Purple Wool Leggings with iron
+item.purple_wool_iron_boots.name=Purple Wool Boots with iron
+
+item.blue_wool_iron_helmet.name=Blue Wool Helmet with iron
+item.blue_wool_iron_chestplate.name=Blue Wool Chestplate with iron
+item.blue_wool_iron_leggings.name=Blue Wool Leggings with iron
+item.blue_wool_iron_boots.name=Blue Wool Boots with iron
+
+item.brown_wool_iron_helmet.name=Brown Wool Helmet with iron
+item.brown_wool_iron_chestplate.name=Brown Wool Chestplate with iron
+item.brown_wool_iron_leggings.name=Brown Wool Leggings with iron
+item.brown_wool_iron_boots.name=Brown Wool Boots with iron
+
+item.green_wool_iron_helmet.name=Green Wool Helmet with iron
+item.green_wool_iron_chestplate.name=Green Wool Chestplate with iron
+item.green_wool_iron_leggings.name=Green Wool Leggings with iron
+item.green_wool_iron_boots.name=Green Wool Boots with iron
+
+item.red_wool_iron_helmet.name=Red Wool Helmet with iron
+item.red_wool_iron_chestplate.name=Red Wool Chestplate with iron
+item.red_wool_iron_leggings.name=Red Wool Leggings with iron
+item.red_wool_iron_boots.name=Red Wool Boots with iron
+
+item.black_wool_iron_helmet.name=Black Wool Helmet with iron
+item.black_wool_iron_chestplate.name=Black Wool Chestplate with iron
+item.black_wool_iron_leggings.name=Black Wool Leggings with iron
+item.black_wool_iron_boots.name=Black Wool Boots with iron
+
+item.wool_gold_helmet.name=Wool Helmet with Gold
+item.wool_gold_chestplate.name=Wool Chestplate with Gold
+item.wool_gold_leggings.name=Wool Leggings with Gold
+item.wool_gold_boots.name=Wool Boots with Gold
+
+item.red_wool_gold_helmet.name=Red Wool Helmet with Gold
+item.red_wool_gold_chestplate.name=Red Wool Chestplate with Gold
+item.red_wool_gold_leggings.name=Red Wool Leggings with Gold
+item.red_wool_gold_boots.name=Red Wool Boots with Gold
+
+item.orange_wool_gold_helmet.name=Orange Wool Helmet with Gold
+item.orange_wool_gold_chestplate.name=Orange Wool Chestplate with Gold
+item.orange_wool_gold_leggings.name=Orange Wool Leggings with Gold
+item.orange_wool_gold_boots.name=Orange Wool Boots with Gold
+
+item.magenta_wool_gold_helmet.name=Magenta Wool Helmet with Gold
+item.magenta_wool_gold_chestplate.name=Magenta Wool Chestplate with Gold
+item.magenta_wool_gold_leggings.name=Magenta Wool Leggings with Gold
+item.magenta_wool_gold_boots.name=Magenta Wool Boots with Gold
+
+item.light_blue_wool_gold_helmet.name=Light Blue Wool Helmet with Gold
+item.light_blue_wool_gold_chestplate.name=Light Blue Wool Chestplate with Gold
+item.light_blue_wool_gold_leggings.name=Light Blue Wool Leggings with Gold
+item.light_blue_wool_gold_boots.name=Light Blue Wool Boots with Gold
+
+item.yellow_wool_gold_helmet.name=Yellow Wool Helmet with Gold
+item.yellow_wool_gold_chestplate.name=Yellow Wool Chestplate with Gold
+item.yellow_wool_gold_leggings.name=Yellow Wool Leggings with Gold
+item.yellow_wool_gold_boots.name=Yellow Wool Boots with Gold
+
+item.lime_wool_gold_helmet.name=Lime Wool Helmet with Gold
+item.lime_wool_gold_chestplate.name=Lime Wool Chestplate with Gold
+item.lime_wool_gold_leggings.name=Lime Wool Leggings with Gold
+item.lime_wool_gold_boots.name=Lime Wool Boots with Gold
+
+item.pink_wool_gold_helmet.name=Pink Wool Helmet with Gold
+item.pink_wool_gold_chestplate.name=Pink Wool Chestplate with Gold
+item.pink_wool_gold_leggings.name=Pink Wool Leggings with Gold
+item.pink_wool_gold_boots.name=Pink Wool Boots with Gold
+item.gray_wool_gold_helmet.name=Gray Wool Helmet with Gold
+item.gray_wool_gold_chestplate.name=Gray Wool Chestplate with Gold
+item.gray_wool_gold_leggings.name=Gray Wool Leggings with Gold
+item.gray_wool_gold_boots.name=Gray Wool Boots with Gold
+
+item.light_gray_wool_gold_helmet.name=Light Gray Wool Helmet with Gold
+item.light_gray_wool_gold_chestplate.name=Light Gray Wool Chestplate with Gold
+item.light_gray_wool_gold_leggings.name=Light Gray Wool Leggings with Gold
+item.light_gray_wool_gold_boots.name=Light Gray Wool Boots with Gold
+
+item.cyan_wool_gold_helmet.name=Cyan Wool Helmet with Gold
+item.cyan_wool_gold_chestplate.name=Cyan Wool Chestplate with Gold
+item.cyan_wool_gold_leggings.name=Cyan Wool Leggings with Gold
+item.cyan_wool_gold_boots.name=Cyan Wool Boots with Gold
+
+item.purple_wool_gold_helmet.name=Purple Wool Helmet with Gold
+item.purple_wool_gold_chestplate.name=Purple Wool Chestplate with Gold
+item.purple_wool_gold_leggings.name=Purple Wool Leggings with Gold
+item.purple_wool_gold_boots.name=Purple Wool Boots with Gold
+
+item.blue_wool_gold_helmet.name=Blue Wool Helmet with Gold
+item.blue_wool_gold_chestplate.name=Blue Wool Chestplate with Gold
+item.blue_wool_gold_leggings.name=Blue Wool Leggings with Gold
+item.blue_wool_gold_boots.name=Blue Wool Boots with Gold
+
+item.brown_wool_gold_helmet.name=Brown Wool Helmet with Gold
+item.brown_wool_gold_chestplate.name=Brown Wool Chestplate with Gold
+item.brown_wool_gold_leggings.name=Brown Wool Leggings with Gold
+item.brown_wool_gold_boots.name=Brown Wool Boots with Gold
+
+item.green_wool_gold_helmet.name=Green Wool Helmet with Gold
+item.green_wool_gold_chestplate.name=Green Wool Chestplate with Gold
+item.green_wool_gold_leggings.name=Green Wool Leggings with Gold
+item.green_wool_gold_boots.name=Green Wool Boots with Gold
+
+item.red_wool_gold_helmet.name=Red Wool Helmet with Gold
+item.red_wool_gold_chestplate.name=Red Wool Chestplate with Gold
+item.red_wool_gold_leggings.name=Red Wool Leggings with Gold
+item.red_wool_gold_boots.name=Red Wool Boots with Gold
+
+item.black_wool_gold_helmet.name=Black Wool Helmet with Gold
+item.black_wool_gold_chestplate.name=Black Wool Chestplate with Gold
+item.black_wool_gold_leggings.name=Black Wool Leggings with Gold
+item.black_wool_gold_boots.name=Black Wool Boots with Gold
+
+item.wool_dia_helmet.name=Wool Helmet with Diamond
+item.wool_dia_chestplate.name=Wool Chestplate with Diamond
+item.wool_dia_leggings.name=Wool Leggings with Diamond
+item.wool_dia_boots.name=Wool Boots with Diamond
+
+item.red_wool_dia_helmet.name=Red Wool Helmet with Diamond
+item.red_wool_dia_chestplate.name=Red Wool Chestplate with Diamond
+item.red_wool_dia_leggings.name=Red Wool Leggings with Diamond
+item.red_wool_dia_boots.name=Red Wool Boots with Diamond
+
+item.orange_wool_dia_helmet.name=Orange Wool Helmet with Diamond
+item.orange_wool_dia_chestplate.name=Orange Wool Chestplate with Diamond
+item.orange_wool_dia_leggings.name=Orange Wool Leggings with Diamond
+item.orange_wool_dia_boots.name=Orange Wool Boots with Diamond
+
+item.magenta_wool_dia_helmet.name=Magenta Wool Helmet with Diamond
+item.magenta_wool_dia_chestplate.name=Magenta Wool Chestplate with Diamond
+item.magenta_wool_dia_leggings.name=Magenta Wool Leggings with Diamond
+item.magenta_wool_dia_boots.name=Magenta Wool Boots with Diamond
+
+item.light_blue_wool_dia_helmet.name=Light Blue Wool Helmet with Diamond
+item.light_blue_wool_dia_chestplate.name=Light Blue Wool Chestplate with Diamond
+item.light_blue_wool_dia_leggings.name=Light Blue Wool Leggings with Diamond
+item.light_blue_wool_dia_boots.name=Light Blue Wool Boots with Diamond
+
+item.yellow_wool_dia_helmet.name=Yellow Wool Helmet with Diamond
+item.yellow_wool_dia_chestplate.name=Yellow Wool Chestplate with Diamond
+item.yellow_wool_dia_leggings.name=Yellow Wool Leggings with Diamond
+item.yellow_wool_dia_boots.name=Yellow Wool Boots with Diamond
+
+item.lime_wool_dia_helmet.name=Lime Wool Helmet with Diamond
+item.lime_wool_dia_chestplate.name=Lime Wool Chestplate with Diamond
+item.lime_wool_dia_leggings.name=Lime Wool Leggings with Diamond
+item.lime_wool_dia_boots.name=Lime Wool Boots with Diamond
+
+item.pink_wool_dia_helmet.name=Pink Wool Helmet with Diamond
+item.pink_wool_dia_chestplate.name=Pink Wool Chestplate with Diamond
+item.pink_wool_dia_leggings.name=Pink Wool Leggings with Diamond
+item.pink_wool_dia_boots.name=Pink Wool Boots with Diamond
+item.gray_wool_dia_helmet.name=Gray Wool Helmet with Diamond
+item.gray_wool_dia_chestplate.name=Gray Wool Chestplate with Diamond
+item.gray_wool_dia_leggings.name=Gray Wool Leggings with Diamond
+item.gray_wool_dia_boots.name=Gray Wool Boots with Diamond
+
+item.light_gray_wool_dia_helmet.name=Light Gray Wool Helmet with Diamond
+item.light_gray_wool_dia_chestplate.name=Light Gray Wool Chestplate with Diamond
+item.light_gray_wool_dia_leggings.name=Light Gray Wool Leggings with Diamond
+item.light_gray_wool_dia_boots.name=Light Gray Wool Boots with Diamond
+
+item.cyan_wool_dia_helmet.name=Cyan Wool Helmet with Diamond
+item.cyan_wool_dia_chestplate.name=Cyan Wool Chestplate with Diamond
+item.cyan_wool_dia_leggings.name=Cyan Wool Leggings with Diamond
+item.cyan_wool_dia_boots.name=Cyan Wool Boots with Diamond
+
+item.purple_wool_dia_helmet.name=Purple Wool Helmet with Diamond
+item.purple_wool_dia_chestplate.name=Purple Wool Chestplate with Diamond
+item.purple_wool_dia_leggings.name=Purple Wool Leggings with Diamond
+item.purple_wool_dia_boots.name=Purple Wool Boots with Diamond
+
+item.blue_wool_dia_helmet.name=Blue Wool Helmet with Diamond
+item.blue_wool_dia_chestplate.name=Blue Wool Chestplate with Diamond
+item.blue_wool_dia_leggings.name=Blue Wool Leggings with Diamond
+item.blue_wool_dia_boots.name=Blue Wool Boots with Diamond
+
+item.brown_wool_dia_helmet.name=Brown Wool Helmet with Diamond
+item.brown_wool_dia_chestplate.name=Brown Wool Chestplate with Diamond
+item.brown_wool_dia_leggings.name=Brown Wool Leggings with Diamond
+item.brown_wool_dia_boots.name=Brown Wool Boots with Diamond
+
+item.green_wool_dia_helmet.name=Green Wool Helmet with Diamond
+item.green_wool_dia_chestplate.name=Green Wool Chestplate with Diamond
+item.green_wool_dia_leggings.name=Green Wool Leggings with Diamond
+item.green_wool_dia_boots.name=Green Wool Boots with Diamond
+
+item.red_wool_dia_helmet.name=Red Wool Helmet with Diamond
+item.red_wool_dia_chestplate.name=Red Wool Chestplate with Diamond
+item.red_wool_dia_leggings.name=Red Wool Leggings with Diamond
+item.red_wool_dia_boots.name=Red Wool Boots with Diamond
+
+item.black_wool_dia_helmet.name=Black Wool Helmet with Diamond
+item.black_wool_dia_chestplate.name=Black Wool Chestplate with Diamond
+item.black_wool_dia_leggings.name=Black Wool Leggings with Diamond
+item.black_wool_dia_boots.name=Black Wool Boots with Diamond
+
+item.chain_wool_helmet.name=Chainmail Helmet with Wool
+item.chain_wool_chestplate.name=Chainmail Chestplate with Wool
+item.chain_wool_leggings.name=Chainmail Leggings with Wool
+item.chain_wool_boots.name=Chainmail Boots with Wool
+
+item.red_chain_wool_helmet.name=Chainmail Helmet with Red Wool
+item.red_chain_wool_chestplate.name=Chainmail Chestplate with Red Wool
+item.red_chain_wool_leggings.name=Chainmail Leggings with Red Wool
+item.red_chain_wool_boots.name=Chainmail Boots with Red Wool
+
+item.orange_chain_wool_helmet.name=Chainmail Helmet with Orange Wool
+item.orange_chain_wool_chestplate.name=Chainmail Chestplate with Orange Wool
+item.orange_chain_wool_leggings.name=Chainmail Leggings with Orange Wool
+item.orange_chain_wool_boots.name=Chainmail Boots with Orange Wool
+
+item.magenta_chain_wool_helmet.name=Chainmail Helmet with Magenta Wool
+item.magenta_chain_wool_chestplate.name=Chainmail Chestplate with Magenta Wool
+item.magenta_chain_wool_leggings.name=Chainmail Leggings with Magenta Wool
+item.magenta_chain_wool_boots.name=Chainmail Boots with Magenta Wool
+
+item.light_blue_chain_wool_helmet.name=Chainmail Helmet with Light Blue Wool
+item.light_blue_chain_wool_chestplate.name=Chainmail Chestplate with Light Blue Wool
+item.light_blue_chain_wool_leggings.name=Chainmail Leggings with Light Blue Wool
+item.light_blue_chain_wool_boots.name=Chainmail Boots with Light Blue Wool
+
+item.yellow_chain_wool_helmet.name=Chainmail Helmet with Yellow Wool
+item.yellow_chain_wool_chestplate.name=Chainmail Chestplate with Yellow Wool
+item.yellow_chain_wool_leggings.name=Chainmail Leggings with Yellow Wool
+item.yellow_chain_wool_boots.name=Chainmail Boots with Yellow Wool
+
+item.lime_chain_wool_helmet.name=Chainmail Helmet with Lime Wool
+item.lime_chain_wool_chestplate.name=Chainmail Chestplate with Lime Wool
+item.lime_chain_wool_leggings.name=Chainmail Leggings with Lime Wool
+item.lime_chain_wool_boots.name=Chainmail Boots with Lime Wool
+
+item.pink_chain_wool_helmet.name=Chainmail Helmet with Pink Wool
+item.pink_chain_wool_chestplate.name=Chainmail Chestplate with Pink Wool
+item.pink_chain_wool_leggings.name=Chainmail Leggings with Pink Wool
+item.pink_chain_wool_boots.name=Chainmail Boots with Pink Wool
+
+item.gray_chain_wool_helmet.name=Chainmail Helmet with Gray Wool
+item.gray_chain_wool_chestplate.name=Chainmail Chestplate with Gray Wool
+item.gray_chain_wool_leggings.name=Chainmail Leggings with Gray Wool
+item.gray_chain_wool_boots.name=Chainmail Boots with Gray Wool
+
+item.light_gray_chain_wool_helmet.name=Chainmail Helmet with Light Gray Wool
+item.light_gray_chain_wool_chestplate.name=Chainmail Chestplate with Light Gray Wool
+item.light_gray_chain_wool_leggings.name=Chainmail Leggings with Light Gray Wool
+item.light_gray_chain_wool_boots.name=Chainmail Boots with Light Gray Wool
+
+item.cyan_chain_wool_helmet.name=Chainmail Helmet with Cyan Wool
+item.cyan_chain_wool_chestplate.name=Chainmail Chestplate with Cyan Wool
+item.cyan_chain_wool_leggings.name=Chainmail Leggings with Cyan Wool
+item.cyan_chain_wool_boots.name=Chainmail Boots with Cyan Wool
+
+item.purple_chain_wool_helmet.name=Chainmail Helmet with Purple Wool
+item.purple_chain_wool_chestplate.name=Chainmail Chestplate with Purple Wool
+item.purple_chain_wool_leggings.name=Chainmail Leggings with Purple Wool
+item.purple_chain_wool_boots.name=Chainmail Boots with Purple Wool
+
+item.blue_chain_wool_helmet.name=Chainmail Helmet with Blue Wool
+item.blue_chain_wool_chestplate.name=Chainmail Chestplate with Blue Wool
+item.blue_chain_wool_leggings.name=Chainmail Leggings with Blue Wool
+item.blue_chain_wool_boots.name=Chainmail Boots with Blue Wool
+
+item.brown_chain_wool_helmet.name=Chainmail Helmet with Brown Wool
+item.brown_chain_wool_chestplate.name=Chainmail Chestplate with Brown Wool
+item.brown_chain_wool_leggings.name=Chainmail Leggings with Brown Wool
+item.brown_chain_wool_boots.name=Chainmail Boots with Brown Wool
+
+item.green_chain_wool_helmet.name=Chainmail Helmet with Green Wool
+item.green_chain_wool_chestplate.name=Chainmail Chestplate with Green Wool
+item.green_chain_wool_leggings.name=Chainmail Leggings with Green Wool
+item.green_chain_wool_boots.name=Chainmail Boots with Green Wool
+
+item.red_chain_wool_helmet.name=Chainmail Helmet with Red Wool
+item.red_chain_wool_chestplate.name=Chainmail Chestplate with Red Wool
+item.red_chain_wool_leggings.name=Chainmail Leggings with Red Wool
+item.red_chain_wool_boots.name=Chainmail Boots with Red Wool
+
+item.black_chain_wool_helmet.name=Chainmail Helmet with Black Wool
+item.black_chain_wool_chestplate.name=Chainmail Chestplate with Black Wool
+item.black_chain_wool_leggings.name=Chainmail Leggings with Black Wool
+item.black_chain_wool_boots.name=Chainmail Boots with Black Wool
+
+item.iron_wool_helmet.name=Iron Helmet with Wool
+item.iron_wool_chestplate.name=Iron Chestplate with Wool
+item.iron_wool_leggings.name=Iron Leggings with Wool
+item.iron_wool_boots.name=Iron Boots with Wool
+
+item.iron_leather_helmet.name=Iron Helmet with Leather
+item.iron_leather_chestplate.name=Iron Chestplate with Leather
+item.iron_leather_leggings.name=Iron Leggings with Leather
+item.iron_leather_boots.name=Iron Boots with Leather
+
+item.iron_gold_helmet.name=Iron Helmet with Gold
+item.iron_gold_chestplate.name=Iron Chestplate with Gold
+item.iron_gold_leggings.name=Iron Leggings with Gold
+item.iron_gold_boots.name=Iron Boots with Gold
+
+item.iron_dia_helmet.name=Iron Helmet with Diamond
+item.iron_dia_chestplate.name=Iron Chestplate with Diamond
+item.iron_dia_leggings.name=Iron Leggings with Diamond
+item.iron_dia_boots.name=Iron Boots with Diamond
+
+item.red_iron_wool_helmet.name=Iron Helmet with Red Wool
+item.red_iron_wool_chestplate.name=Iron Chestplate with Red Wool
+item.red_iron_wool_leggings.name=Iron Leggings with Red Wool
+item.red_iron_wool_boots.name=Iron Boots with Red Wool
+
+item.orange_iron_wool_helmet.name=Iron Helmet with Orange Wool
+item.orange_iron_wool_chestplate.name=Iron Chestplate with Orange Wool
+item.orange_iron_wool_leggings.name=Iron Leggings with Orange Wool
+item.orange_iron_wool_boots.name=Iron Boots with Orange Wool
+
+item.magenta_iron_wool_helmet.name=Iron Helmet with Magenta Wool
+item.magenta_iron_wool_chestplate.name=Iron Chestplate with Magenta Wool
+item.magenta_iron_wool_leggings.name=Iron Leggings with Magenta Wool
+item.magenta_iron_wool_boots.name=Iron Boots with Magenta Wool
+
+item.light_blue_iron_wool_helmet.name=Iron Helmet with Light Blue Wool
+item.light_blue_iron_wool_chestplate.name=Iron Chestplate with Light Blue Wool
+item.light_blue_iron_wool_leggings.name=Iron Leggings with Light Blue Wool
+item.light_blue_iron_wool_boots.name=Iron Boots with Light Blue Wool
+
+item.yellow_iron_wool_helmet.name=Iron Helmet with Yellow Wool
+item.yellow_iron_wool_chestplate.name=Iron Chestplate with Yellow Wool
+item.yellow_iron_wool_leggings.name=Iron Leggings with Yellow Wool
+item.yellow_iron_wool_boots.name=Iron Boots with Yellow Wool
+
+item.lime_iron_wool_helmet.name=Iron Helmet with Lime Wool
+item.lime_iron_wool_chestplate.name=Iron Chestplate with Lime Wool
+item.lime_iron_wool_leggings.name=Iron Leggings with Lime Wool
+item.lime_iron_wool_boots.name=Iron Boots with Lime Wool
+
+item.pink_iron_wool_helmet.name=Iron Helmet with Pink Wool
+item.pink_iron_wool_chestplate.name=Iron Chestplate with Pink Wool
+item.pink_iron_wool_leggings.name=Iron Leggings with Pink Wool
+item.pink_iron_wool_boots.name=Iron Boots with Pink Wool
+
+item.gray_iron_wool_helmet.name=Iron Helmet with Gray Wool
+item.gray_iron_wool_chestplate.name=Iron Chestplate with Gray Wool
+item.gray_iron_wool_leggings.name=Iron Leggings with Gray Wool
+item.gray_iron_wool_boots.name=Iron Boots with Gray Wool
+
+item.light_gray_iron_wool_helmet.name=Iron Helmet with Light Gray Wool
+item.light_gray_iron_wool_chestplate.name=Iron Chestplate with Light Gray Wool
+item.light_gray_iron_wool_leggings.name=Iron Leggings with Light Gray Wool
+item.light_gray_iron_wool_boots.name=Iron Boots with Light Gray Wool
+
+item.cyan_iron_wool_helmet.name=Iron Helmet with Cyan Wool
+item.cyan_iron_wool_chestplate.name=Iron Chestplate with Cyan Wool
+item.cyan_iron_wool_leggings.name=Iron Leggings with Cyan Wool
+item.cyan_iron_wool_boots.name=Iron Boots with Cyan Wool
+
+item.purple_iron_wool_helmet.name=Iron Helmet with Purple Wool
+item.purple_iron_wool_chestplate.name=Iron Chestplate with Purple Wool
+item.purple_iron_wool_leggings.name=Iron Leggings with Purple Wool
+item.purple_iron_wool_boots.name=Iron Boots with Purple Wool
+
+item.blue_iron_wool_helmet.name=Iron Helmet with Blue Wool
+item.blue_iron_wool_chestplate.name=Iron Chestplate with Blue Wool
+item.blue_iron_wool_leggings.name=Iron Leggings with Blue Wool
+item.blue_iron_wool_boots.name=Iron Boots with Blue Wool
+
+item.brown_iron_wool_helmet.name=Iron Helmet with Brown Wool
+item.brown_iron_wool_chestplate.name=Iron Chestplate with Brown Wool
+item.brown_iron_wool_leggings.name=Iron Leggings with Brown Wool
+item.brown_iron_wool_boots.name=Iron Boots with Brown Wool
+
+item.green_iron_wool_helmet.name=Iron Helmet with Green Wool
+item.green_iron_wool_chestplate.name=Iron Chestplate with Green Wool
+item.green_iron_wool_leggings.name=Iron Leggings with Green Wool
+item.green_iron_wool_boots.name=Iron Boots with Green Wool
+
+item.red_iron_wool_helmet.name=Iron Helmet with Red Wool
+item.red_iron_wool_chestplate.name=Iron Chestplate with Red Wool
+item.red_iron_wool_leggings.name=Iron Leggings with Red Wool
+item.red_iron_wool_boots.name=Iron Boots with Red Wool
+
+item.black_iron_wool_helmet.name=Iron Helmet with Black Wool
+item.black_iron_wool_chestplate.name=Iron Chestplate with Black Wool
+item.black_iron_wool_leggings.name=Iron Leggings with Black Wool
+item.black_iron_wool_boots.name=Iron Boots with Black Wool
+
+item.gold_wool_helmet.name=Golden Helmet with Wool
+item.gold_wool_chestplate.name=Golden Chestplate with Wool
+item.gold_wool_leggings.name=Golden Leggings with Wool
+item.gold_wool_boots.name=Golden Boots with Wool
+
+item.red_gold_wool_helmet.name=Golden Helmet with Red Wool
+item.red_gold_wool_chestplate.name=Golden Chestplate with Red Wool
+item.red_gold_wool_leggings.name=Golden Leggings with Red Wool
+item.red_gold_wool_boots.name=Golden Boots with Red Wool
+
+item.orange_gold_wool_helmet.name=Golden Helmet with Orange Wool
+item.orange_gold_wool_chestplate.name=Golden Chestplate with Orange Wool
+item.orange_gold_wool_leggings.name=Golden Leggings with Orange Wool
+item.orange_gold_wool_boots.name=Golden Boots with Orange Wool
+
+item.magenta_gold_wool_helmet.name=Golden Helmet with Magenta Wool
+item.magenta_gold_wool_chestplate.name=Golden Chestplate with Magenta Wool
+item.magenta_gold_wool_leggings.name=Golden Leggings with Magenta Wool
+item.magenta_gold_wool_boots.name=Golden Boots with Magenta Wool
+
+item.light_blue_gold_wool_helmet.name=Golden Helmet with Light Blue Wool
+item.light_blue_gold_wool_chestplate.name=Golden Chestplate with Light Blue Wool
+item.light_blue_gold_wool_leggings.name=Golden Leggings with Light Blue Wool
+item.light_blue_gold_wool_boots.name=Golden Boots with Light Blue Wool
+
+item.yellow_gold_wool_helmet.name=Golden Helmet with Yellow Wool
+item.yellow_gold_wool_chestplate.name=Golden Chestplate with Yellow Wool
+item.yellow_gold_wool_leggings.name=Golden Leggings with Yellow Wool
+item.yellow_gold_wool_boots.name=Golden Boots with Yellow Wool
+
+item.lime_gold_wool_helmet.name=Golden Helmet with Lime Wool
+item.lime_gold_wool_chestplate.name=Golden Chestplate with Lime Wool
+item.lime_gold_wool_leggings.name=Golden Leggings with Lime Wool
+item.lime_gold_wool_boots.name=Golden Boots with Lime Wool
+
+item.pink_gold_wool_helmet.name=Golden Helmet with Pink Wool
+item.pink_gold_wool_chestplate.name=Golden Chestplate with Pink Wool
+item.pink_gold_wool_leggings.name=Golden Leggings with Pink Wool
+item.pink_gold_wool_boots.name=Golden Boots with Pink Wool
+
+item.gray_gold_wool_helmet.name=Golden Helmet with Gray Wool
+item.gray_gold_wool_chestplate.name=Golden Chestplate with Gray Wool
+item.gray_gold_wool_leggings.name=Golden Leggings with Gray Wool
+item.gray_gold_wool_boots.name=Golden Boots with Gray Wool
+
+item.light_gray_gold_wool_helmet.name=Golden Helmet with Light Gray Wool
+item.light_gray_gold_wool_chestplate.name=Golden Chestplate with Light Gray Wool
+item.light_gray_gold_wool_leggings.name=Golden Leggings with Light Gray Wool
+item.light_gray_gold_wool_boots.name=Golden Boots with Light Gray Wool
+
+item.cyan_gold_wool_helmet.name=Golden Helmet with Cyan Wool
+item.cyan_gold_wool_chestplate.name=Golden Chestplate with Cyan Wool
+item.cyan_gold_wool_leggings.name=Golden Leggings with Cyan Wool
+item.cyan_gold_wool_boots.name=Golden Boots with Cyan Wool
+
+item.purple_gold_wool_helmet.name=Golden Helmet with Purple Wool
+item.purple_gold_wool_chestplate.name=Golden Chestplate with Purple Wool
+item.purple_gold_wool_leggings.name=Golden Leggings with Purple Wool
+item.purple_gold_wool_boots.name=Golden Boots with Purple Wool
+
+item.blue_gold_wool_helmet.name=Golden Helmet with Blue Wool
+item.blue_gold_wool_chestplate.name=Golden Chestplate with Blue Wool
+item.blue_gold_wool_leggings.name=Golden Leggings with Blue Wool
+item.blue_gold_wool_boots.name=Golden Boots with Blue Wool
+
+item.brown_gold_wool_helmet.name=Golden Helmet with Brown Wool
+item.brown_gold_wool_chestplate.name=Golden Chestplate with Brown Wool
+item.brown_gold_wool_leggings.name=Golden Leggings with Brown Wool
+item.brown_gold_wool_boots.name=Golden Boots with Brown Wool
+
+item.green_gold_wool_helmet.name=Golden Helmet with Green Wool
+item.green_gold_wool_chestplate.name=Golden Chestplate with Green Wool
+item.green_gold_wool_leggings.name=Golden Leggings with Green Wool
+item.green_gold_wool_boots.name=Golden Boots with Green Wool
+
+item.red_gold_wool_helmet.name=Golden Helmet with Red Wool
+item.red_gold_wool_chestplate.name=Golden Chestplate with Red Wool
+item.red_gold_wool_leggings.name=Golden Leggings with Red Wool
+item.red_gold_wool_boots.name=Golden Boots with Red Wool
+
+item.black_gold_wool_helmet.name=Golden Helmet with Black Wool
+item.black_gold_wool_chestplate.name=Golden Chestplate with Black Wool
+item.black_gold_wool_leggings.name=Golden Leggings with Black Wool
+item.black_gold_wool_boots.name=Golden Boots with Black Wool
+
+item.dia_wool_helmet.name=Diamond Helmet with Wool
+item.dia_wool_chestplate.name=Diamond Chestplate with Wool
+item.dia_wool_leggings.name=Diamond Leggings with Wool
+item.dia_wool_boots.name=Diamond Boots with Wool
+
+item.red_dia_wool_helmet.name=Diamond Helmet with Red Wool
+item.red_dia_wool_chestplate.name=Diamond Chestplate with Red Wool
+item.red_dia_wool_leggings.name=Diamond Leggings with Red Wool
+item.red_dia_wool_boots.name=Diamond Boots with Red Wool
+
+item.orange_dia_wool_helmet.name=Diamond Helmet with Orange Wool
+item.orange_dia_wool_chestplate.name=Diamond Chestplate with Orange Wool
+item.orange_dia_wool_leggings.name=Diamond Leggings with Orange Wool
+item.orange_dia_wool_boots.name=Diamond Boots with Orange Wool
+
+item.magenta_dia_wool_helmet.name=Diamond Helmet with Magenta Wool
+item.magenta_dia_wool_chestplate.name=Diamond Chestplate with Magenta Wool
+item.magenta_dia_wool_leggings.name=Diamond Leggings with Magenta Wool
+item.magenta_dia_wool_boots.name=Diamond Boots with Magenta Wool
+
+item.light_blue_dia_wool_helmet.name=Diamond Helmet with Light Blue Wool
+item.light_blue_dia_wool_chestplate.name=Diamond Chestplate with Light Blue Wool
+item.light_blue_dia_wool_leggings.name=Diamond Leggings with Light Blue Wool
+item.light_blue_dia_wool_boots.name=Diamond Boots with Light Blue Wool
+
+item.yellow_dia_wool_helmet.name=Diamond Helmet with Yellow Wool
+item.yellow_dia_wool_chestplate.name=Diamond Chestplate with Yellow Wool
+item.yellow_dia_wool_leggings.name=Diamond Leggings with Yellow Wool
+item.yellow_dia_wool_boots.name=Diamond Boots with Yellow Wool
+
+item.lime_dia_wool_helmet.name=Diamond Helmet with Lime Wool
+item.lime_dia_wool_chestplate.name=Diamond Chestplate with Lime Wool
+item.lime_dia_wool_leggings.name=Diamond Leggings with Lime Wool
+item.lime_dia_wool_boots.name=Diamond Boots with Lime Wool
+
+item.pink_dia_wool_helmet.name=Diamond Helmet with Pink Wool
+item.pink_dia_wool_chestplate.name=Diamond Chestplate with Pink Wool
+item.pink_dia_wool_leggings.name=Diamond Leggings with Pink Wool
+item.pink_dia_wool_boots.name=Diamond Boots with Pink Wool
+
+item.gray_dia_wool_helmet.name=Diamond Helmet with Gray Wool
+item.gray_dia_wool_chestplate.name=Diamond Chestplate with Gray Wool
+item.gray_dia_wool_leggings.name=Diamond Leggings with Gray Wool
+item.gray_dia_wool_boots.name=Diamond Boots with Gray Wool
+
+item.light_gray_dia_wool_helmet.name=Diamond Helmet with Light Gray Wool
+item.light_gray_dia_wool_chestplate.name=Diamond Chestplate with Light Gray Wool
+item.light_gray_dia_wool_leggings.name=Diamond Leggings with Light Gray Wool
+item.light_gray_dia_wool_boots.name=Diamond Boots with Light Gray Wool
+
+item.cyan_dia_wool_helmet.name=Diamond Helmet with Cyan Wool
+item.cyan_dia_wool_chestplate.name=Diamond Chestplate with Cyan Wool
+item.cyan_dia_wool_leggings.name=Diamond Leggings with Cyan Wool
+item.cyan_dia_wool_boots.name=Diamond Boots with Cyan Wool
+
+item.purple_dia_wool_helmet.name=Diamond Helmet with Purple Wool
+item.purple_dia_wool_chestplate.name=Diamond Chestplate with Purple Wool
+item.purple_dia_wool_leggings.name=Diamond Leggings with Purple Wool
+item.purple_dia_wool_boots.name=Diamond Boots with Purple Wool
+
+item.blue_dia_wool_helmet.name=Diamond Helmet with Blue Wool
+item.blue_dia_wool_chestplate.name=Diamond Chestplate with Blue Wool
+item.blue_dia_wool_leggings.name=Diamond Leggings with Blue Wool
+item.blue_dia_wool_boots.name=Diamond Boots with Blue Wool
+
+item.brown_dia_wool_helmet.name=Diamond Helmet with Brown Wool
+item.brown_dia_wool_chestplate.name=Diamond Chestplate with Brown Wool
+item.brown_dia_wool_leggings.name=Diamond Leggings with Brown Wool
+item.brown_dia_wool_boots.name=Diamond Boots with Brown Wool
+
+item.green_dia_wool_helmet.name=Diamond Helmet with Green Wool
+item.green_dia_wool_chestplate.name=Diamond Chestplate with Green Wool
+item.green_dia_wool_leggings.name=Diamond Leggings with Green Wool
+item.green_dia_wool_boots.name=Diamond Boots with Green Wool
+
+item.red_dia_wool_helmet.name=Diamond Helmet with Red Wool
+item.red_dia_wool_chestplate.name=Diamond Chestplate with Red Wool
+item.red_dia_wool_leggings.name=Diamond Leggings with Red Wool
+item.red_dia_wool_boots.name=Diamond Boots with Red Wool
+
+item.black_dia_wool_helmet.name=Diamond Helmet with Black Wool
+item.black_dia_wool_chestplate.name=Diamond Chestplate with Black Wool
+item.black_dia_wool_leggings.name=Diamond Leggings with Black Wool
+item.black_dia_wool_boots.name=Diamond Boots with Black Wool
+
+item.leather_wool_helmet.name=Leather Cap with Wool
+item.leather_wool_chestplate.name=Leather Tunic with Wool
+item.leather_wool_leggings.name=Leather Pants with Wool
+item.leather_wool_boots.name=Leather Boots with Wool
+
+item.red_leather_wool_helmet.name=Leather Cap with Red Wool
+item.red_leather_wool_chestplate.name=Leather Tunic with Red Wool
+item.red_leather_wool_leggings.name=Leather Pants with Red Wool
+item.red_leather_wool_boots.name=Leather Boots with Red Wool
+
+item.orange_leather_wool_helmet.name=Leather Cap with Orange Wool
+item.orange_leather_wool_chestplate.name=Leather Tunic with Orange Wool
+item.orange_leather_wool_leggings.name=Leather Pants with Orange Wool
+item.orange_leather_wool_boots.name=Leather Boots with Orange Wool
+
+item.magenta_leather_wool_helmet.name=Leather Cap with Magenta Wool
+item.magenta_leather_wool_chestplate.name=Leather Tunic with Magenta Wool
+item.magenta_leather_wool_leggings.name=Leather Pants with Magenta Wool
+item.magenta_leather_wool_boots.name=Leather Boots with Magenta Wool
+
+item.light_blue_leather_wool_helmet.name=Leather Cap with Light Blue Wool
+item.light_blue_leather_wool_chestplate.name=Leather Tunic with Light Blue Wool
+item.light_blue_leather_wool_leggings.name=Leather Pants with Light Blue Wool
+item.light_blue_leather_wool_boots.name=Leather Boots with Light Blue Wool
+
+item.yellow_leather_wool_helmet.name=Leather Cap with Yellow Wool
+item.yellow_leather_wool_chestplate.name=Leather Tunic with Yellow Wool
+item.yellow_leather_wool_leggings.name=Leather Pants with Yellow Wool
+item.yellow_leather_wool_boots.name=Leather Boots with Yellow Wool
+
+item.lime_leather_wool_helmet.name=Leather Cap with Lime Wool
+item.lime_leather_wool_chestplate.name=Leather Tunic with Lime Wool
+item.lime_leather_wool_leggings.name=Leather Pants with Lime Wool
+item.lime_leather_wool_boots.name=Leather Boots with Lime Wool
+
+item.pink_leather_wool_helmet.name=Leather Cap with Pink Wool
+item.pink_leather_wool_chestplate.name=Leather Tunic with Pink Wool
+item.pink_leather_wool_leggings.name=Leather Pants with Pink Wool
+item.pink_leather_wool_boots.name=Leather Boots with Pink Wool
+
+item.gray_leather_wool_helmet.name=Leather Cap with Gray Wool
+item.gray_leather_wool_chestplate.name=Leather Tunic with Gray Wool
+item.gray_leather_wool_leggings.name=Leather Pants with Gray Wool
+item.gray_leather_wool_boots.name=Leather Boots with Gray Wool
+
+item.light_gray_leather_wool_helmet.name=Leather Cap with Light Gray Wool
+item.light_gray_leather_wool_chestplate.name=Leather Tunic with Light Gray Wool
+item.light_gray_leather_wool_leggings.name=Leather Pants with Light Gray Wool
+item.light_gray_leather_wool_boots.name=Leather Boots with Light Gray Wool
+
+item.cyan_leather_wool_helmet.name=Leather Cap with Cyan Wool
+item.cyan_leather_wool_chestplate.name=Leather Tunic with Cyan Wool
+item.cyan_leather_wool_leggings.name=Leather Pants with Cyan Wool
+item.cyan_leather_wool_boots.name=Leather Boots with Cyan Wool
+
+item.purple_leather_wool_helmet.name=Leather Cap with Purple Wool
+item.purple_leather_wool_chestplate.name=Leather Tunic with Purple Wool
+item.purple_leather_wool_leggings.name=Leather Pants with Purple Wool
+item.purple_leather_wool_boots.name=Leather Boots with Purple Wool
+
+item.blue_leather_wool_helmet.name=Leather Cap with Blue Wool
+item.blue_leather_wool_chestplate.name=Leather Tunic with Blue Wool
+item.blue_leather_wool_leggings.name=Leather Pants with Blue Wool
+item.blue_leather_wool_boots.name=Leather Boots with Blue Wool
+
+item.brown_leather_wool_helmet.name=Leather Cap with Brown Wool
+item.brown_leather_wool_chestplate.name=Leather Tunic with Brown Wool
+item.brown_leather_wool_leggings.name=Leather Pants with Brown Wool
+item.brown_leather_wool_boots.name=Leather Boots with Brown Wool
+
+item.green_leather_wool_helmet.name=Leather Cap with Green Wool
+item.green_leather_wool_chestplate.name=Leather Tunic with Green Wool
+item.green_leather_wool_leggings.name=Leather Pants with Green Wool
+item.green_leather_wool_boots.name=Leather Boots with Green Wool
+
+item.red_leather_wool_helmet.name=Leather Cap with Red Wool
+item.red_leather_wool_chestplate.name=Leather Tunic with Red Wool
+item.red_leather_wool_leggings.name=Leather Pants with Red Wool
+item.red_leather_wool_boots.name=Leather Boots with Red Wool
+
+item.black_leather_wool_helmet.name=Leather Cap with Black Wool
+item.black_leather_wool_chestplate.name=Leather Tunic with Black Wool
+item.black_leather_wool_leggings.name=Leather Pants with Black Wool
+item.black_leather_wool_boots.name=Leather Boots with Black Wool
+
+item.gold_wool_helmet.name=Goldenen Helmet with Wool
+item.gold_wool_chestplate.name=Goldenen Chestplate with Wool
+item.gold_wool_leggings.name=Goldenen Leggings with Wool
+item.gold_wool_boots.name=Goldenen Boots with Wool
+
+item.gold_chain_helmet.name=Goldenen Helmet with Chainmail
+item.gold_chain_chestplate.name=Goldenen Chestplate with Chainmail
+item.gold_chain_leggings.name=Goldenen Leggings with Chainmail
+item.gold_chain_boots.name=Goldenen Boots with Chainmail
+
+item.gold_iron_helmet.name=Goldenen Helmet with Iron
+item.gold_iron_chestplate.name=Goldenen Chestplate with Iron
+item.gold_iron_leggings.name=Goldenen Leggings with Iron
+item.gold_iron_boots.name=Goldenen Boots with Iron
+
+item.gold_dia_helmet.name=Goldenen Helmet with Diamond
+item.gold_dia_chestplate.name=Goldenen Chestplate with Diamond
+item.gold_dia_leggings.name=Goldenen Leggings with Diamond
+item.gold_dia_boots.name=Goldenen Boots with Diamond
+
+item.iron_dia_helmet.name=Iron Helmet with Diamond
+item.iron_dia_chestplate.name=Iron Chestplate with Diamond
+item.iron_dia_leggings.name=Iron Leggings with Diamond
+item.iron_dia_boots.name=Iron Boots with Diamond
+
+item.iron_chain_helmet.name=Iron Helmet with Chainmail
+item.iron_chain_chestplate.name=Iron Chestplate with Chainmail
+item.iron_chain_leggings.name=Iron Leggings with Chainmail
+item.iron_chain_boots.name=Iron Boots with Chainmail
+
+item.iron_gold_helmet.name=Iron Helmet with Gold
+item.iron_gold_chestplate.name=Iron Chestplate with Gold
+item.iron_gold_leggings.name=Iron Leggings with Gold
+item.iron_gold_boots.name=Iron Boots with Gold
+
+item.chain_dia_helmet.name=Chainmail Helmet with Diamond
+item.chain_dia_chestplate.name=Chainmail Chestplate with Diamond
+item.chain_dia_leggings.name=Chainmail Leggings with Diamond
+item.chain_dia_boots.name=Chainmail Boots with Diamond
+
+item.chain_gold_helmet.name=Chainmail Helmet with Gold
+item.chain_gold_chestplate.name=Chainmail Chestplate with Gold
+item.chain_gold_leggings.name=Chainmail Leggings with Gold
+item.chain_gold_boots.name=Chainmail Boots with Gold
+
+item.chain_iron_helmet.name=Chainmail Helmet with Iron
+item.chain_iron_chestplate.name=Chainmail Chestplate with Iron
+item.chain_iron_leggings.name=Chainmail Leggings with Iron
+item.chain_iron_boots.name=Chainmail Boots with Iron
+
+item.chain_leather_helmet.name=Chainmail Helmet with Leather
+item.chain_leather_chestplate.name=Chainmail Chestplate with Leather
+item.chain_leather_leggings.name=Chainmail Leggings with Leather
+item.chain_leather_boots.name=Chainmail Boots with Leather
+
+item.dia_iron_helmet.name=Diamond Helmet with Iron
+item.dia_iron_chestplate.name=Diamond Chestplate with Iron
+item.dia_iron_leggings.name=Diamond Leggings with Iron
+item.dia_iron_boots.name=Diamond Boots with Iron
+
+item.dia_chain_helmet.name=Diamond Helmet with Chainmail
+item.dia_chain_chestplate.name=Diamond Chestplate with Chainmail
+item.dia_chain_leggings.name=Diamond Leggings with Chainmail
+item.dia_chain_boots.name=Diamond Boots with Chainmail
+
+item.dia_gold_helmet.name=Diamond Helmet with Gold
+item.dia_gold_chestplate.name=Diamond Chestplate with Gold
+item.dia_gold_leggings.name=Diamond Leggings with Gold
+item.dia_gold_boots.name=Diamond Boots with Gold
+
+item.dia_wool_helmet.name=Diamond Helmet with Wool
+item.dia_wool_chestplate.name=Diamond Chestplate with Wool
+item.dia_wool_leggings.name=Diamond Leggings with Wool
+item.dia_wool_boots.name=Diamond Boots with Wool
+
+item.leather_gold_helmet.name=Leather Cap with Gold
+item.leather_gold_chestplate.name=Leather Tunic with Gold
+item.leather_gold_leggings.name=Leather Pants with Gold
+item.leather_gold_boots.name=Leather Boots with Gold
+
+item.leather_iron_helmet.name=Leather Cap with Iron
+item.leather_iron_chestplate.name=Leather Tunic with Iron
+item.leather_iron_leggings.name=Leather Pants with Iron
+item.leather_iron_boots.name=Leather Boots with Iron
+
+item.leather_chain_helmet.name=Leather Cap with Chainmail
+item.leather_chain_chestplate.name=Leather Tunic with Chainmail
+item.leather_chain_leggings.name=Leather Pants with Chainmail
+item.leather_chain_boots.name=Leather Boots with Chainmail
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

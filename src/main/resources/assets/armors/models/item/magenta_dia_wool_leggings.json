@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:items/diamond_leggings",
+	"layer1": "armors:items/magenta_wool_leggings_overlay"
+  }
+}

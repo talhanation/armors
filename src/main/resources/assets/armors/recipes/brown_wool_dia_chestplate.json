@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xax"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:diamond"
+    },
+    "a":
+    {
+      "item": "armors:brown_wool_chestplate"
+    }
+  },
+  "result": {
+		"item": "armors:brown_wool_dia_chestplate"
+  }
+}

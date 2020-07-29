@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:items/chainmail_helmet",
+	"layer1": "armors:items/green_wool_helmet_overlay"
+  }
+}
