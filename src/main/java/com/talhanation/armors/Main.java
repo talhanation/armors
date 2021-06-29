@@ -1,37 +1,51 @@
 package com.talhanation.armors;
 
-import com.talhanation.armors.proxy.CommonProxy;
+import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.api.distmarker.OnlyIn;
+import net.minecraftforge.common.MinecraftForge;
+import net.minecraftforge.eventbus.api.IEventBus;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.common.SidedProxy;
-import net.minecraftforge.fml.common.event.FMLInitializationEvent;
-import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
-import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
+import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
+import net.minecraftforge.fml.event.server.FMLServerStartingEvent;
+import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.minecraftforge.client.event.ColorHandlerEvent;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
-
-
-@Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)
+@Mod("armors")
 public class Main
 {
+    private static final Logger LOGGER = LogManager.getLogger();
+    public static final String MOD_ID = "armors";
 
+    public Main() {
+        final IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+        modEventBus.addListener(this::setup);
 
-    @Mod.Instance
-    public static Main instance;
+        SoundInit.SOUNDS.register(modEventBus);
+        ModItems.ITEMS.register(modEventBus);
 
-    @SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.COMMON_PROXY_CLASS)
-    public static CommonProxy proxy;
-
-    @Mod.EventHandler
-    public static void PreInit(FMLPreInitializationEvent event){
-    }
-
-    @Mod.EventHandler
-    public static void init(FMLInitializationEvent event) {
+        MinecraftForge.EVENT_BUS.register(this);
 
     }
 
-    @Mod.EventHandler
-    public static void PostInit(FMLPostInitializationEvent event){
+    private void setup(final FMLCommonSetupEvent event) {
 
     }
 
+    private void doClientStuff(final FMLClientSetupEvent event) {
+
+    }
+
+    @SubscribeEvent
+    public void onServerStarting(FMLServerStartingEvent event) {
+
+    }
+
+    @OnlyIn(Dist.CLIENT)
+    private void registerItemColors(ColorHandlerEvent.Item event) {
+
+    }
 }
