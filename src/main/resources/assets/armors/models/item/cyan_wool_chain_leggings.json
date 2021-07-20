@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "armors:items/cyan_wool_leggings",
-	"layer1": "armors:items/chain_leggings_overlay"
-  }
-}

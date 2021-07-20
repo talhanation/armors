@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "minecraft:items/chainmail_boots",
-	"layer1": "armors:items/yellow_wool_boots_overlay"
-  }
-}

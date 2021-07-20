@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "armors:items/leather_boots",
-	"layer1": "armors:items/black_wool_boots_overlay"
-  }
-}

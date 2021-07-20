@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "minecraft:items/diamond_helmet",
-	"layer1": "armors:items/black_wool_helmet_overlay"
-  }
-}

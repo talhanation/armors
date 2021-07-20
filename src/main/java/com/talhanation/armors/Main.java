@@ -14,17 +14,19 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
 @Mod("armors")
 public class Main{
-    public static final String MOD_ID = "smallships";
+    public static final String MOD_ID = "armors";
 
     public Main() {
         //ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, SmallShipsConfig.CONFIG);
         //SmallShipsConfig.loadConfig(SmallShipsConfig.CONFIG, FMLPaths.CONFIGDIR.get().resolve("smallships-common.toml"));
-
+        IEventBus fmlBus = FMLJavaModLoadingContext.get().getModEventBus();
+        IEventBus forgeBus = MinecraftForge.EVENT_BUS;
+        fmlBus.register(this);
+        forgeBus.register(this);
         final IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
         modEventBus.addListener(this::setup);
-
         SoundInit.SOUNDS.register(modEventBus);
-        ModItems.ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
+        ModItems.register();
         MinecraftForge.EVENT_BUS.register(this);
 
         //DistExecutor.unsafeRunWhenOn(Dist.CLIENT, () -> () -> FMLJavaModLoadingContext.get().getModEventBus().addListener(Main.this::clientSetup));

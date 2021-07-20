@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "armors:items/orange_wool_chestplate",
-	"layer1": "armors:items/chain_chestplate_overlay"
-  }
-}

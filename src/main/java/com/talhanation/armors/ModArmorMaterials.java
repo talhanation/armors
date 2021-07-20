@@ -3,6 +3,7 @@ package com.talhanation.armors;
 import com.talhanation.armors.init.SoundInit;
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.item.IArmorMaterial;
+import net.minecraft.item.Items;
 import net.minecraft.item.crafting.Ingredient;
 import net.minecraft.util.LazyValue;
 import net.minecraft.util.SoundEvent;
@@ -11,19 +12,20 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.api.distmarker.OnlyIn;
 import net.minecraftforge.common.Tags;
 
+import java.util.Optional;
 import java.util.function.Supplier;
 
 
-public enum ModArmorMaterials implements IArmorMaterial {
+public enum ModArmorMaterials{
 
-    WOOL("wool", 7, new int[]{0,1,2,0}, 15, SoundInit.ARMOR_EQUIP_WOOL.get(), 0.0F, 0.0F,
+    WOOL("wool", 7, new int[]{1,1,2,1}, 15, SoundInit.ARMOR_EQUIP_WOOL.get(), 0.0F, 0.0F,
             () -> Ingredient.of(Tags.Items.STRING)),
 
     WOOL_WOOL("wool_wool", 7 + 2, new int[]{1,2,3,1}, 15,SoundInit.ARMOR_EQUIP_WOOL.get(), 0.0F, 0.0F,
             () -> Ingredient.of(Tags.Items.STRING)),
 
     LEATHER_WOOL("leather_wool", 5 + 2, new int[]{1, 2, 3, 1}, 15, SoundEvents.ARMOR_EQUIP_LEATHER, 0.0F, 0.0F,
-        () -> Ingredient.of(Tags.Items.STRING)),
+        () -> Ingredient.of(Tags.Items.LEATHER)),
 
     CHAIN_WOOL("chain_wool", 15 + 2, new int[]{1, 4, 5, 2}, 12, SoundEvents.ARMOR_EQUIP_CHAIN, 0.0F, 0.0F,
             () -> Ingredient.of(Tags.Items.INGOTS_IRON)),
@@ -44,6 +46,32 @@ public enum ModArmorMaterials implements IArmorMaterial {
     NETHERITE_WOOL("netherite_wool", 37 + 2, new int[]{3, 6, 8, 3}, 15, SoundEvents.ARMOR_EQUIP_NETHERITE, 3.0F, 0.1F,
             () -> Ingredient.of(Tags.Items.INGOTS_NETHERITE)),
 
+    //LEATHER UPGRADE
+
+    WOOL_LEATHER("wool_leather", 5 + 3, new int[]{1, 2, 3, 1}, 15, SoundEvents.ARMOR_EQUIP_LEATHER, 0.0F, 0.0F,
+            () -> Ingredient.of(Tags.Items.STRING)),
+
+    LEATHER_LEATHER("leather_leather", 5 + 3, new int[]{1, 2, 3, 1}, 15, SoundEvents.ARMOR_EQUIP_LEATHER, 0.0F, 0.0F,
+            () -> Ingredient.of(Tags.Items.LEATHER)),
+
+    CHAIN_LEATHER("chain_leather", 15 + 3, new int[]{1, 4, 5, 2}, 12, SoundEvents.ARMOR_EQUIP_CHAIN, 0.0F, 0.0F,
+            () -> Ingredient.of(Tags.Items.INGOTS_IRON)),
+
+
+    IRON_LEATHER("iron_leather", 15 + 3, new int[]{2, 5, 6, 2}, 9, SoundEvents.ARMOR_EQUIP_IRON, 0.0F, 0.0F,
+            () -> Ingredient.of(Tags.Items.INGOTS_IRON)),
+
+
+    GOLD_LEATHER("gold_leather", 7 + 3, new int[]{1, 3, 5, 2}, 25, SoundEvents.ARMOR_EQUIP_GOLD, 0.0F, 0.0F,
+            () -> Ingredient.of(Tags.Items.INGOTS_GOLD)),
+
+
+    DIAMOND_LEATHER("diamond_leather", 33 + 3, new int[]{3, 6, 8, 3}, 10, SoundEvents.ARMOR_EQUIP_DIAMOND, 2.0F, 0.0F,
+            () -> Ingredient.of(Tags.Items.GEMS_DIAMOND)),
+
+
+    NETHERITE_LEATHER("netherite_leather", 37 + 3, new int[]{3, 6, 8, 3}, 15, SoundEvents.ARMOR_EQUIP_NETHERITE, 3.0F, 0.1F,
+            () -> Ingredient.of(Tags.Items.INGOTS_NETHERITE)),
 
     //CHAIN UPGRADE
 
@@ -104,6 +132,8 @@ public enum ModArmorMaterials implements IArmorMaterial {
 
 
     //GOLD UPGRADE
+    WOOL_GOLD("wool_gold", 7 + 3, new int[]{0,1,2,0}, 15 + 8, SoundInit.ARMOR_EQUIP_WOOL.get(), 0.0F, 0.0F,
+            () -> Ingredient.of(Tags.Items.STRING)),
 
     LEATHER_GOLD("leather_gold", 5 + 3, new int[]{1, 2, 3, 1}, 15 + 8, SoundEvents.ARMOR_EQUIP_LEATHER, 0.0F, 0.0F,
             () -> Ingredient.of(Tags.Items.LEATHER)),
@@ -131,6 +161,10 @@ public enum ModArmorMaterials implements IArmorMaterial {
 
     //DIAMOND UPGRADE
 
+    WOOL_DIAMOND("wool_diamond", 7 + 15, new int[]{1,2,3,1}, 15, SoundInit.ARMOR_EQUIP_WOOL.get(), 0.8F, 0.0F,
+            () -> Ingredient.of(Tags.Items.STRING)),
+
+
     LEATHER_DIAMOND("leather_diamond", 5 + 15, new int[]{2, 3, 4, 2}, 15, SoundEvents.ARMOR_EQUIP_LEATHER, 0.8F, 0.0F,
             () -> Ingredient.of(Tags.Items.LEATHER)),
 
@@ -156,6 +190,10 @@ public enum ModArmorMaterials implements IArmorMaterial {
 
 
     //NETHERITE UPGRADE
+
+    WOOL_NETHERITE("wool_netherite", 7 + 18, new int[]{1,2,3,1}, 15, SoundInit.ARMOR_EQUIP_WOOL.get(), 1.0F, 0.034F,
+            () -> Ingredient.of(Tags.Items.STRING)),
+
 
     LEATHER_NETHERITE("leather_netherite", 5 + 18, new int[]{2, 3, 4, 2}, 15, SoundEvents.ARMOR_EQUIP_LEATHER, 1.0F, 0.034F,
             () -> Ingredient.of(Tags.Items.LEATHER)),
@@ -191,6 +229,7 @@ public enum ModArmorMaterials implements IArmorMaterial {
     private final float toughness;
     private final float knockbackResistance;
     private final LazyValue<Ingredient> repairIngredient;
+    private IModArmorMaterial iModArmorMaterial;
 
     ModArmorMaterials(String name, int durability, int[] slotProtections, int enchantmentValue, SoundEvent sound, float toughness, float knockbackres, Supplier<Ingredient> repair){
         this.name = name;
@@ -203,37 +242,59 @@ public enum ModArmorMaterials implements IArmorMaterial {
         this.repairIngredient = new LazyValue<>(repair);
     }
 
-    public int getDurabilityForSlot (EquipmentSlotType p_200896_1_){
-        return HEALTH_PER_SLOT[p_200896_1_.getIndex()] * this.durability;
+    public static Optional<IModArmorMaterial> ifModArmorMaterial(IArmorMaterial material) {
+        return (material instanceof IModArmorMaterial) ? Optional.of((IModArmorMaterial)material) : Optional.empty();
     }
 
-    public int getDefenseForSlot (EquipmentSlotType p_200902_1_){
-        return this.slotProtections[p_200902_1_.getIndex()];
+    public IModArmorMaterial iModArmorMaterial() {
+        if (this.iModArmorMaterial == null)
+            this.iModArmorMaterial = new IModArmorMaterial(this);
+        return this.iModArmorMaterial();
     }
 
-    public int getEnchantmentValue () {
-        return this.enchantmentValue;
-    }
 
-    public SoundEvent getEquipSound () {
-        return this.sound;
-    }
 
-    public Ingredient getRepairIngredient () {
-        return this.repairIngredient.get();
-    }
+    public static class IModArmorMaterial implements IArmorMaterial {
+        private final ModArmorMaterials materialReference;
 
-    @OnlyIn(Dist.CLIENT)
-    public String getName () {
-        return this.name;
-    }
+        public IModArmorMaterial(ModArmorMaterials m) {
+            this.materialReference = m;
+        }
 
-    public float getToughness () {
-        return this.toughness;
-    }
+        public int getDurabilityForSlot(EquipmentSlotType slot) {
+            return ModArmorMaterials.HEALTH_PER_SLOT[slot.getIndex()] * this.materialReference.durability;
+        }
 
-    public float getKnockbackResistance () {
-        return this.knockbackResistance;
+        public int getDefenseForSlot(EquipmentSlotType slot) {
+            return this.materialReference.slotProtections[slot.getIndex()];
+        }
+
+        public int getEnchantmentValue() {
+            return this.materialReference.enchantmentValue;
+        }
+
+        public SoundEvent getEquipSound() {
+            return this.materialReference.sound;
+        }
+
+        public Ingredient getRepairIngredient() {
+            return this.materialReference.repairIngredient.get();
+        }
+
+        @OnlyIn(Dist.CLIENT)
+        public String getName() {
+            return this.materialReference.name;
+        }
+
+        public float getToughness() {
+            return this.materialReference.toughness;
+        }
+
+        @Override
+        public float getKnockbackResistance() {
+            return this.getKnockbackResistance();
+        }
+
     }
 }
 
